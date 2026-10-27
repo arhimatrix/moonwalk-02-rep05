@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 840" role="img" aria-label="The four shortlisted regions scored in Report 02, against the 87 degree south landing band">
+<rect width="100%" height="100%" fill="#0B0F16"/>
+<style>text{font-family:"IBM Plex Mono",monospace;fill:#A0A7B3;font-size:12px}.t{fill:#E6E4DE}.h{fill:#E88A6F}.b{fill:#7C9CF2}.s{font-size:10px;fill:#6E7582}.tt{fill:#E6E4DE;font-size:13px;letter-spacing:2px}</style>
+<text class="tt" x="40" y="46">3 · THE SHORTLIST × THE LANDING BAND</text>
+<text class="s" x="40" y="66">Report 02 weighted scores · orange band: landing latitude ≥ 87°S (≈ 91 km from the pole)</text>
+<circle cx="450" cy="440" r="186.4" fill="rgba(232,138,111,.10)" stroke="#E88A6F" stroke-width="2.2"/>
+<circle cx="450" cy="440" r="62.1" fill="none" stroke="#2C3442" stroke-width="1" stroke-dasharray="3 4"/>
+<text class="s" x="454" y="372.9">89°S</text>
+<circle cx="450" cy="440" r="124.3" fill="none" stroke="#2C3442" stroke-width="1" stroke-dasharray="3 4"/>
+<text class="s" x="454" y="310.7">88°S</text>
+<circle cx="450" cy="440" r="186.4" fill="none" stroke="#2C3442" stroke-width="1" stroke-dasharray="3 4"/>
+<text class="s" x="454" y="248.6">87°S</text>
+<circle cx="450" cy="440" r="248.6" fill="none" stroke="#2C3442" stroke-width="1" stroke-dasharray="3 4"/>
+<text class="s" x="454" y="186.4">86°S</text>
+<circle cx="450" cy="440" r="310.7" fill="none" stroke="#2C3442" stroke-width="1" stroke-dasharray="3 4"/>
+<text class="s" x="454" y="124.3">85°S</text>
+<line x1="450" y1="440" x2="450.0" y2="129.3" stroke="#1A212D" stroke-width="1"/>
+<text class="s" x="450.0" y="113.3" text-anchor="middle">0°</text>
+<line x1="450" y1="440" x2="605.4" y2="170.9" stroke="#1A212D" stroke-width="1"/>
+<text class="s" x="613.4" y="157.0" text-anchor="middle">30°</text>
+<line x1="450" y1="440" x2="719.1" y2="284.6" stroke="#1A212D" stroke-width="1"/>
+<text class="s" x="733.0" y="276.6" text-anchor="middle">60°</text>
+<line x1="450" y1="440" x2="760.7" y2="440.0" stroke="#1A212D" stroke-width="1"/>
+<text class="s" x="776.7" y="440.0" text-anchor="middle">90°</text>
+<line x1="450" y1="440" x2="719.1" y2="595.4" stroke="#1A212D" stroke-width="1"/>
+<text class="s" x="733.0" y="603.4" text-anchor="middle">120°</text>
+<line x1="450" y1="440" x2="605.4" y2="709.1" stroke="#1A212D" stroke-width="1"/>
+<text class="s" x="613.4" y="723.0" text-anchor="middle">150°</text>
+<line x1="450" y1="440" x2="450.0" y2="750.7" stroke="#1A212D" stroke-width="1"/>
+<text class="s" x="450.0" y="766.7" text-anchor="middle">180°</text>
+<line x1="450" y1="440" x2="294.6" y2="709.1" stroke="#1A212D" stroke-width="1"/>
+<text class="s" x="286.6" y="723.0" text-anchor="middle">-150°</text>
+<line x1="450" y1="440" x2="180.9" y2="595.4" stroke="#1A212D" stroke-width="1"/>
+<text class="s" x="167.0" y="603.4" text-anchor="middle">-120°</text>
+<line x1="450" y1="440" x2="139.3" y2="440.0" stroke="#1A212D" stroke-width="1"/>
+<text class="s" x="123.3" y="440.0" text-anchor="middle">-90°</text>
+<line x1="450" y1="440" x2="180.9" y2="284.6" stroke="#1A212D" stroke-width="1"/>
+<text class="s" x="167.0" y="276.6" text-anchor="middle">-60°</text>
+<line x1="450" y1="440" x2="294.6" y2="170.9" stroke="#1A212D" stroke-width="1"/>
+<text class="s" x="286.6" y="157.0" text-anchor="middle">-30°</text>
+<circle cx="450" cy="440" r="2.4" fill="#E6E4DE"/><text class="s" x="456" y="444">90°S</text>
+<circle cx="465.8" cy="453.1" r="21.5" fill="none" stroke="#242D3C" stroke-width="1.2"/>
+<circle cx="356.9" cy="435.3" r="32.8" fill="none" stroke="#242D3C" stroke-width="1.2"/>
+<circle cx="533.4" cy="356.4" r="52.3" fill="none" stroke="#242D3C" stroke-width="1.2"/>
+<circle cx="613.5" cy="402.3" r="40.0" fill="none" stroke="#242D3C" stroke-width="1.2"/>
+<circle cx="436.2" cy="282.1" r="35.9" fill="none" stroke="#242D3C" stroke-width="1.2"/>
+<circle cx="406.2" cy="522.3" r="33.8" fill="none" stroke="#242D3C" stroke-width="1.2"/>
+<circle cx="689.8" cy="262.6" r="74.8" fill="none" stroke="#242D3C" stroke-width="1.2"/>
+<circle cx="254.2" cy="223.3" r="100.4" fill="none" stroke="#242D3C" stroke-width="1.2"/>
+<circle cx="789.3" cy="398.3" r="105.6" fill="none" stroke="#242D3C" stroke-width="1.2"/>
+<text class="h" x="269" y="585">87°S · ≈ 91 km from the pole</text>
+<circle cx="416.9" cy="445.2" r="7" fill="#E88A6F"/>
+<text class="h" x="432.9" y="481.2" text-anchor="start">C1 · Connecting Ridge</text>
+<text class="s" x="432.9" y="496.2" text-anchor="start">score 23 · inside</text>
+<circle cx="375.1" cy="409.7" r="7" fill="#E88A6F"/>
+<text class="h" x="359.1" y="385.7" text-anchor="end">C2 · de Gerlache Rim 2</text>
+<text class="s" x="359.1" y="400.7" text-anchor="end">score 27 · inside</text>
+<circle cx="462.6" cy="191.7" r="7" fill="none" stroke="#7C9CF2" stroke-width="2.2"/>
+<text class="b" x="446.6" y="179.7" text-anchor="end">C3 · Malapert Massif</text>
+<text class="s" x="446.6" y="194.7" text-anchor="end">score 20 · outside</text>
+<circle cx="633.8" cy="221.0" r="7" fill="none" stroke="#7C9CF2" stroke-width="2.2"/>
+<text class="b" x="649.8" y="209.0" text-anchor="start">C4 · Nobile Rim 1</text>
+<text class="s" x="649.8" y="224.0" text-anchor="start">score 25 · outside</text>
+<text x="40" y="768">Report 02 scored the four on light, ice distance, flat ground, slope, Earth link and NASA status:</text><text x="40" y="786">de Gerlache Rim 2 first (27), Nobile Rim 1 (25), Connecting Ridge (23), Malapert Massif (20).</text><text class="h" x="40" y="806">The ≥ 87°S band leaves two: Connecting Ridge and de Gerlache Rim 2.</text><line x1="700" y1="740" x2="802.5" y2="740" stroke="#A0A7B3" stroke-width="2"/><line x1="700" y1="736" x2="700" y2="744" stroke="#A0A7B3" stroke-width="2"/><line x1="802.5" y1="736" x2="802.5" y2="744" stroke="#A0A7B3" stroke-width="2"/><text class="s" x="700" y="730">50 km</text>
+</svg>

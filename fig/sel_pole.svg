@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 840" role="img" aria-label="South polar terrain: crater rims and permanently shadowed floors within 150 km of the pole">
+<rect width="100%" height="100%" fill="#0B0F16"/>
+<style>text{font-family:"IBM Plex Mono",monospace;fill:#A0A7B3;font-size:12px}.t{fill:#E6E4DE}.h{fill:#E88A6F}.b{fill:#7C9CF2}.s{font-size:10px;fill:#6E7582}.tt{fill:#E6E4DE;font-size:13px;letter-spacing:2px}</style>
+<text class="tt" x="40" y="46">1 · THE SOUTH POLE · LIGHT ON THE RIMS, ICE IN THE FLOORS</text>
+<text class="s" x="40" y="66">azimuthal equidistant · 0° (Earth-facing) up · positions approximate, from published polar maps</text>
+<circle cx="450" cy="440" r="62.1" fill="none" stroke="#2C3442" stroke-width="1" stroke-dasharray="3 4"/>
+<text class="s" x="454" y="372.9">89°S</text>
+<circle cx="450" cy="440" r="124.3" fill="none" stroke="#2C3442" stroke-width="1" stroke-dasharray="3 4"/>
+<text class="s" x="454" y="310.7">88°S</text>
+<circle cx="450" cy="440" r="186.4" fill="none" stroke="#2C3442" stroke-width="1" stroke-dasharray="3 4"/>
+<text class="s" x="454" y="248.6">87°S</text>
+<circle cx="450" cy="440" r="248.6" fill="none" stroke="#2C3442" stroke-width="1" stroke-dasharray="3 4"/>
+<text class="s" x="454" y="186.4">86°S</text>
+<circle cx="450" cy="440" r="310.7" fill="none" stroke="#2C3442" stroke-width="1" stroke-dasharray="3 4"/>
+<text class="s" x="454" y="124.3">85°S</text>
+<line x1="450" y1="440" x2="450.0" y2="129.3" stroke="#1A212D" stroke-width="1"/>
+<text class="s" x="450.0" y="113.3" text-anchor="middle">0°</text>
+<line x1="450" y1="440" x2="605.4" y2="170.9" stroke="#1A212D" stroke-width="1"/>
+<text class="s" x="613.4" y="157.0" text-anchor="middle">30°</text>
+<line x1="450" y1="440" x2="719.1" y2="284.6" stroke="#1A212D" stroke-width="1"/>
+<text class="s" x="733.0" y="276.6" text-anchor="middle">60°</text>
+<line x1="450" y1="440" x2="760.7" y2="440.0" stroke="#1A212D" stroke-width="1"/>
+<text class="s" x="776.7" y="440.0" text-anchor="middle">90°</text>
+<line x1="450" y1="440" x2="719.1" y2="595.4" stroke="#1A212D" stroke-width="1"/>
+<text class="s" x="733.0" y="603.4" text-anchor="middle">120°</text>
+<line x1="450" y1="440" x2="605.4" y2="709.1" stroke="#1A212D" stroke-width="1"/>
+<text class="s" x="613.4" y="723.0" text-anchor="middle">150°</text>
+<line x1="450" y1="440" x2="450.0" y2="750.7" stroke="#1A212D" stroke-width="1"/>
+<text class="s" x="450.0" y="766.7" text-anchor="middle">180°</text>
+<line x1="450" y1="440" x2="294.6" y2="709.1" stroke="#1A212D" stroke-width="1"/>
+<text class="s" x="286.6" y="723.0" text-anchor="middle">-150°</text>
+<line x1="450" y1="440" x2="180.9" y2="595.4" stroke="#1A212D" stroke-width="1"/>
+<text class="s" x="167.0" y="603.4" text-anchor="middle">-120°</text>
+<line x1="450" y1="440" x2="139.3" y2="440.0" stroke="#1A212D" stroke-width="1"/>
+<text class="s" x="123.3" y="440.0" text-anchor="middle">-90°</text>
+<line x1="450" y1="440" x2="180.9" y2="284.6" stroke="#1A212D" stroke-width="1"/>
+<text class="s" x="167.0" y="276.6" text-anchor="middle">-60°</text>
+<line x1="450" y1="440" x2="294.6" y2="170.9" stroke="#1A212D" stroke-width="1"/>
+<text class="s" x="286.6" y="157.0" text-anchor="middle">-30°</text>
+<circle cx="450" cy="440" r="2.4" fill="#E6E4DE"/><text class="s" x="456" y="444">90°S</text>
+<circle cx="465.8" cy="453.1" r="21.5" fill="rgba(124,156,242,.13)" stroke="#39445A" stroke-width="1.2"/>
+<circle cx="465.8" cy="453.1" r="11.8" fill="rgba(124,156,242,.20)"/>
+<text class="s" x="465.8" y="486.7" text-anchor="middle">Shackleton</text>
+<circle cx="356.9" cy="435.3" r="32.8" fill="rgba(124,156,242,.13)" stroke="#39445A" stroke-width="1.2"/>
+<circle cx="356.9" cy="435.3" r="18.0" fill="rgba(124,156,242,.20)"/>
+<text class="s" x="356.9" y="480.1" text-anchor="middle">de Gerlache</text>
+<circle cx="533.4" cy="356.4" r="52.3" fill="rgba(124,156,242,.13)" stroke="#39445A" stroke-width="1.2"/>
+<circle cx="533.4" cy="356.4" r="28.8" fill="rgba(124,156,242,.20)"/>
+<text class="s" x="533.4" y="420.6" text-anchor="middle">Shoemaker</text>
+<circle cx="613.5" cy="402.3" r="40.0" fill="rgba(124,156,242,.13)" stroke="#39445A" stroke-width="1.2"/>
+<circle cx="613.5" cy="402.3" r="22.0" fill="rgba(124,156,242,.20)"/>
+<text class="s" x="613.5" y="454.2" text-anchor="middle">Faustini</text>
+<circle cx="436.2" cy="282.1" r="35.9" fill="rgba(124,156,242,.13)" stroke="#39445A" stroke-width="1.2"/>
+<circle cx="436.2" cy="282.1" r="19.7" fill="rgba(124,156,242,.20)"/>
+<text class="s" x="436.2" y="330.0" text-anchor="middle">Haworth</text>
+<circle cx="406.2" cy="522.3" r="33.8" fill="rgba(124,156,242,.13)" stroke="#39445A" stroke-width="1.2"/>
+<circle cx="406.2" cy="522.3" r="18.6" fill="rgba(124,156,242,.20)"/>
+<text class="s" x="406.2" y="568.1" text-anchor="middle">Sverdrup</text>
+<circle cx="689.8" cy="262.6" r="74.8" fill="none" stroke="#39445A" stroke-width="1.2"/>
+<text class="s" x="689.8" y="349.4" text-anchor="middle">Nobile</text>
+<circle cx="254.2" cy="223.3" r="100.4" fill="rgba(124,156,242,.13)" stroke="#39445A" stroke-width="1.2"/>
+<circle cx="254.2" cy="223.3" r="55.2" fill="rgba(124,156,242,.20)"/>
+<text class="s" x="254.2" y="335.7" text-anchor="middle">Cabeus</text>
+<circle cx="789.3" cy="398.3" r="105.6" fill="none" stroke="#39445A" stroke-width="1.2"/>
+<text class="s" x="789.3" y="515.9" text-anchor="middle">Amundsen</text>
+<polyline points="444.4,449.7 416.9,445.2 389.1,440.4" fill="none" stroke="#E88A6F" stroke-width="2.4"/>
+<text class="h" x="267" y="429">connecting ridge · lit most of the year</text>
+<text class="b" x="560" y="120">blue floors: permanently shadowed,</text><text class="b" x="560" y="136">below 110 K — water ice</text><text x="40" y="786">The Sun never climbs more than ~1.5° above the horizon: high rims stay lit most of the year,</text><text x="40" y="804">deep floors never see it. Power lives on the rims; ice lives next door in the floors.</text><line x1="700" y1="740" x2="802.5" y2="740" stroke="#A0A7B3" stroke-width="2"/><line x1="700" y1="736" x2="700" y2="744" stroke="#A0A7B3" stroke-width="2"/><line x1="802.5" y1="736" x2="802.5" y2="744" stroke="#A0A7B3" stroke-width="2"/><text class="s" x="700" y="730">50 km</text>
+</svg>

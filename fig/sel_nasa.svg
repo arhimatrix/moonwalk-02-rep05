@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 840" role="img" aria-label="NASA Artemis III candidate regions: thirteen in 2022 narrowed to nine in 2024">
+<rect width="100%" height="100%" fill="#0B0F16"/>
+<style>text{font-family:"IBM Plex Mono",monospace;fill:#A0A7B3;font-size:12px}.t{fill:#E6E4DE}.h{fill:#E88A6F}.b{fill:#7C9CF2}.s{font-size:10px;fill:#6E7582}.tt{fill:#E6E4DE;font-size:13px;letter-spacing:2px}</style>
+<text class="tt" x="40" y="46">2 · NASA’S LISTS · 13 REGIONS (2022) → 9 (2024)</text>
+<text class="s" x="40" y="66">each region 15 × 15 km · centres approximate · azimuthal equidistant, 0° up</text>
+<circle cx="430" cy="450" r="86.1" fill="none" stroke="#2C3442" stroke-width="1" stroke-dasharray="3 4"/>
+<text class="s" x="434" y="358.9">88°S</text>
+<circle cx="430" cy="450" r="172.2" fill="none" stroke="#2C3442" stroke-width="1" stroke-dasharray="3 4"/>
+<text class="s" x="434" y="272.8">86°S</text>
+<circle cx="430" cy="450" r="258.3" fill="none" stroke="#2C3442" stroke-width="1" stroke-dasharray="3 4"/>
+<text class="s" x="434" y="186.7">84°S</text>
+<circle cx="430" cy="450" r="344.4" fill="none" stroke="#2C3442" stroke-width="1" stroke-dasharray="3 4"/>
+<text class="s" x="434" y="100.6">82°S</text>
+<line x1="430" y1="450" x2="430.0" y2="105.6" stroke="#1A212D" stroke-width="1"/>
+<text class="s" x="430.0" y="89.6" text-anchor="middle">0°</text>
+<line x1="430" y1="450" x2="602.2" y2="151.7" stroke="#1A212D" stroke-width="1"/>
+<text class="s" x="610.2" y="137.9" text-anchor="middle">30°</text>
+<line x1="430" y1="450" x2="728.3" y2="277.8" stroke="#1A212D" stroke-width="1"/>
+<text class="s" x="742.1" y="269.8" text-anchor="middle">60°</text>
+<line x1="430" y1="450" x2="774.4" y2="450.0" stroke="#1A212D" stroke-width="1"/>
+<text class="s" x="790.4" y="450.0" text-anchor="middle">90°</text>
+<line x1="430" y1="450" x2="728.3" y2="622.2" stroke="#1A212D" stroke-width="1"/>
+<text class="s" x="742.1" y="630.2" text-anchor="middle">120°</text>
+<line x1="430" y1="450" x2="602.2" y2="748.3" stroke="#1A212D" stroke-width="1"/>
+<text class="s" x="610.2" y="762.1" text-anchor="middle">150°</text>
+<line x1="430" y1="450" x2="430.0" y2="794.4" stroke="#1A212D" stroke-width="1"/>
+<text class="s" x="430.0" y="810.4" text-anchor="middle">180°</text>
+<line x1="430" y1="450" x2="257.8" y2="748.3" stroke="#1A212D" stroke-width="1"/>
+<text class="s" x="249.8" y="762.1" text-anchor="middle">-150°</text>
+<line x1="430" y1="450" x2="131.7" y2="622.2" stroke="#1A212D" stroke-width="1"/>
+<text class="s" x="117.9" y="630.2" text-anchor="middle">-120°</text>
+<line x1="430" y1="450" x2="85.6" y2="450.0" stroke="#1A212D" stroke-width="1"/>
+<text class="s" x="69.6" y="450.0" text-anchor="middle">-90°</text>
+<line x1="430" y1="450" x2="131.7" y2="277.8" stroke="#1A212D" stroke-width="1"/>
+<text class="s" x="117.9" y="269.8" text-anchor="middle">-60°</text>
+<line x1="430" y1="450" x2="257.8" y2="151.7" stroke="#1A212D" stroke-width="1"/>
+<text class="s" x="249.8" y="137.9" text-anchor="middle">-30°</text>
+<circle cx="430" cy="450" r="2.4" fill="#E6E4DE"/><text class="s" x="436" y="454">90°S</text>
+<circle cx="440.9" cy="459.1" r="14.9" fill="none" stroke="#242D3C" stroke-width="1.2"/>
+<circle cx="365.5" cy="446.7" r="22.7" fill="none" stroke="#242D3C" stroke-width="1.2"/>
+<circle cx="487.7" cy="392.1" r="36.2" fill="none" stroke="#242D3C" stroke-width="1.2"/>
+<circle cx="543.3" cy="423.9" r="27.7" fill="none" stroke="#242D3C" stroke-width="1.2"/>
+<circle cx="420.4" cy="340.6" r="24.8" fill="none" stroke="#242D3C" stroke-width="1.2"/>
+<circle cx="399.7" cy="507.0" r="23.4" fill="none" stroke="#242D3C" stroke-width="1.2"/>
+<circle cx="596.1" cy="327.1" r="51.8" fill="none" stroke="#242D3C" stroke-width="1.2"/>
+<circle cx="294.4" cy="299.9" r="69.6" fill="none" stroke="#242D3C" stroke-width="1.2"/>
+<circle cx="665.0" cy="421.1" r="73.1" fill="none" stroke="#242D3C" stroke-width="1.2"/>
+<rect x="543.5" y="426.3" width="21.3" height="21.3" fill="none" stroke="#6E7582" stroke-dasharray="3 3"/>
+<text class="s" x="567.8" y="440.0">01</text>
+<rect x="462.2" y="468.2" width="21.3" height="21.3" fill="none" stroke="#6E7582" stroke-dasharray="3 3"/>
+<text class="s" x="486.5" y="481.9">02</text>
+<rect x="396.4" y="443.0" width="21.3" height="21.3" fill="none" stroke="#6E7582" stroke-dasharray="3 3"/>
+<text class="s" x="420.7" y="456.6">03</text>
+<rect x="393.0" y="461.5" width="21.3" height="21.3" fill="none" stroke="#6E7582" stroke-dasharray="3 3"/>
+<text class="s" x="417.3" y="475.1">04</text>
+<rect x="360.4" y="426.8" width="21.3" height="21.3" fill="none" stroke="#6E7582" stroke-dasharray="3 3"/>
+<text class="s" x="384.7" y="440.5">05</text>
+<rect x="367.5" y="418.4" width="21.3" height="21.3" fill="rgba(217,181,150,.85)" stroke="#D9B596"/>
+<text class="s" x="391.8" y="432.0">06</text>
+<rect x="352.2" y="478.1" width="21.3" height="21.3" fill="none" stroke="#6E7582" stroke-dasharray="3 3"/>
+<text class="s" x="376.5" y="491.7">07</text>
+<rect x="406.0" y="330.4" width="21.3" height="21.3" fill="rgba(217,181,150,.85)" stroke="#D9B596"/>
+<text class="s" x="430.3" y="344.0">08</text>
+<rect x="428.1" y="267.4" width="21.3" height="21.3" fill="rgba(217,181,150,.85)" stroke="#D9B596"/>
+<text class="s" x="452.4" y="281.0">09</text>
+<rect x="317.4" y="269.6" width="21.3" height="21.3" fill="rgba(217,181,150,.85)" stroke="#D9B596"/>
+<text class="s" x="341.7" y="283.3">10</text>
+<rect x="546.6" y="287.7" width="21.3" height="21.3" fill="rgba(217,181,150,.85)" stroke="#D9B596"/>
+<text class="s" x="570.9" y="301.3">11</text>
+<rect x="627.4" y="309.3" width="21.3" height="21.3" fill="rgba(217,181,150,.85)" stroke="#D9B596"/>
+<text class="s" x="651.7" y="323.0">12</text>
+<rect x="648.4" y="351.4" width="21.3" height="21.3" fill="none" stroke="#6E7582" stroke-dasharray="3 3"/>
+<text class="s" x="672.7" y="365.1">13</text>
+<rect x="154.6" y="239.9" width="21.3" height="21.3" fill="rgba(124,156,242,.5)" stroke="#7C9CF2"/>
+<rect x="292.7" y="244.4" width="21.3" height="21.3" fill="rgba(124,156,242,.5)" stroke="#7C9CF2"/>
+<rect x="506.7" y="462.7" width="21.3" height="21.3" fill="rgba(124,156,242,.5)" stroke="#7C9CF2"/>
+<text class="t" x="880" y="92">Artemis III candidate regions</text>
+<text class="s" x="880" y="110">01  Faustini Rim A</text><text class="s" x="1128" y="110">dropped 2024</text>
+<text class="s" x="880" y="132">02  Peak Near Shackleton</text><text class="s" x="1128" y="132">dropped 2024</text>
+<text class="s" x="880" y="154">03  Connecting Ridge</text><text class="s" x="1128" y="154">dropped 2024</text>
+<text class="s" x="880" y="176">04  Connecting Ridge Extension</text><text class="s" x="1128" y="176">dropped 2024</text>
+<text class="s" x="880" y="198">05  de Gerlache Rim 1</text><text class="s" x="1128" y="198">dropped 2024</text>
+<text class="t" x="880" y="220">06  de Gerlache Rim 2</text><text class="s" x="1128" y="220">kept 2024</text>
+<text class="s" x="880" y="242">07  de Gerlache-Kocher Massif</text><text class="s" x="1128" y="242">dropped 2024</text>
+<text class="t" x="880" y="264">08  Haworth</text><text class="s" x="1128" y="264">kept 2024</text>
+<text class="t" x="880" y="286">09  Malapert Massif</text><text class="s" x="1128" y="286">kept 2024</text>
+<text class="t" x="880" y="308">10  Leibnitz Beta Plateau</text><text class="s" x="1128" y="308">kept 2024</text>
+<text class="t" x="880" y="330">11  Nobile Rim 1</text><text class="s" x="1128" y="330">kept 2024</text>
+<text class="t" x="880" y="352">12  Nobile Rim 2</text><text class="s" x="1128" y="352">kept 2024</text>
+<text class="s" x="880" y="374">13  Amundsen Rim</text><text class="s" x="1128" y="374">dropped 2024</text>
+<text class="b" x="880" y="396">+  Peak near Cabeus B</text><text class="s" x="1128" y="396">new 2024</text>
+<text class="b" x="880" y="418">+  Mons Mouton Plateau</text><text class="s" x="1128" y="418">new 2024</text>
+<text class="b" x="880" y="440">+  Slater Plain</text><text class="s" x="1128" y="440">new 2024</text>
+<rect x="880" y="464" width="12" height="12" fill="rgba(217,181,150,.85)"/><text class="s" x="900" y="474">on both lists</text>
+<rect x="880" y="486" width="12" height="12" fill="none" stroke="#6E7582" stroke-dasharray="3 3"/><text class="s" x="900" y="496">2022 only · dropped</text>
+<rect x="880" y="508" width="12" height="12" fill="rgba(124,156,242,.5)"/><text class="s" x="900" y="518">added 2024</text>
+<text x="40" y="786">Terrain already vetted for a crewed landing: slope, light and ice distance. The 2024 revision kept the</text><text x="40" y="804">de Gerlache–Nobile arc, added sites farther out, and dropped the narrow crest regions nearest the pole.</text><line x1="640" y1="740" x2="782.0" y2="740" stroke="#A0A7B3" stroke-width="2"/><line x1="640" y1="736" x2="640" y2="744" stroke="#A0A7B3" stroke-width="2"/><line x1="782.0" y1="736" x2="782.0" y2="744" stroke="#A0A7B3" stroke-width="2"/><text class="s" x="640" y="730">100 km</text>
+</svg>
